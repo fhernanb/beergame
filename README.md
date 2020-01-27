@@ -10,5 +10,5 @@ Install latest development version from GitHub using the code given below:
 
 ```r
 if (!require('devtools')) install.packages('devtools')
-devtools::install_github('fhernanb/stests', force=TRUE)
+devtools::install_github('fhernanb/beergame', force=TRUE)
 ```
