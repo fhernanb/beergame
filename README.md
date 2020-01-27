@@ -1,3 +1,7 @@
+[![Travis build status](https://travis-ci.org/fhernanb/beergame.svg?branch=master)](https://travis-ci.org/fhernanb/beergame)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version-ago/beergame)](https://cran.r-project.org/package=beergame)
+[![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/beergame)](https://cran.r-project.org/package=beergame) 
+
 # beergame
 
 beergame is a package that contains useful functions to replicate the famous Beer Game.
