@@ -2,7 +2,7 @@
 
 beergame is a package that contains useful functions to replicate the famous Beer Game.
 
-<img src="my_figures/game1.png" align="right" alt="" width="420" />
+<img src="man/my_figures/game1.png" align="right" alt="" width="420" />
 
 ## Installation
 
