@@ -8,6 +8,8 @@ beergame is a package that contains useful functions to replicate the famous Bee
 
 <img src="man/my_figures/game1.png" align="right" alt="" width="420" />
 
+You can visit the [package website](https://fhernanb.github.io/beergame) to explore the vignettes (articles) and function reference. 
+
 ## Installation
 
 Install latest development version from GitHub using the code given below:
